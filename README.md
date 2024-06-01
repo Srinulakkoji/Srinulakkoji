@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Srinivasarao lakkoji</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-- 🔭 I’m currently working on **ICICI Idigipay CRM**
+- 🔭 I’m currently working in Tata Consultancy Services as Java developer
 
-- 📫 How to reach me **shreenu.mounu@gmail.com**
+- 📫 How to reach me **shreenu.vasu.lakkoji@gmail.com**
+
+- Also you can reach out to me in Linkedin **"https://www.linkedin.com/in/srinivasarao-lakkoji-1a09bb184/"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
